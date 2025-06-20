@@ -1,6 +1,5 @@
 # DIY-voltmeter
 DIY Arduino voltmeter for fast circuit diagnostics.
-Here’s a short summary of your document:
 
 ---
 
